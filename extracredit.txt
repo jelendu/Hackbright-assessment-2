@@ -1,0 +1,14 @@
+Perficient is a Microsoft National Solution Provider (NSP) Partner and has partnerships with IBM and Red Hat. They deliver cloud-optimized, high-quality digital experience, business optimization, and industry solutions.
+
+Apple's technology stack includes Swift programming language, Xcode IDE, Cocoa Touch framework, and Objective-C programming language.
+
+Microsoft's technology stack includes many tools and services for businesses in one place such as back-end data base to coding languages (e.g., C#) and development environments (e.g., Visual Studio), all the way up to platforms and applications like cloud apps, Microsoft (Office) 365, and business applications like Dynamics 365 Business Central.
+
+I hope this helps! Let me know if you have any other questions.
+
+References: 
+(1) Microsoft National Solution Provider / Perficient. https://www.perficient.com/who-we-are/partners/microsoft.
+(2) Perficient Technology Partnerships / Perficient. https://www.perficient.com/who-we-are/partners.
+(3) technology stack Articles - Perficient Blogs. https://blogs.perficient.com/tag/technology-stack/.
+(4) What is Microsoft Technology Stack? Complete Overview. https://www.theknowledgeacademy.com/blog/microsoft-technology-stack/.
+(5) The Microsoft Technology Stack – What It Is and Why You Should Care. https://archerpoint.com/microsoft-technology-stack-what-it-and-why-you-should-care/.
